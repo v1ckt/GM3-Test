@@ -1,0 +1,19 @@
+#subscribe {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+}
+
+.body {
+    padding: 4rem 8rem 4rem 8rem;
+}
+
+#text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+#intext {
+    max-width: 70vw;
+}
